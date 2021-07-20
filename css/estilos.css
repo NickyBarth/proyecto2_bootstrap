@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.bg-primary {
+    background: #D98B0B !important;
+}
+small {
+    color: #D98B0B;
+}
+.text-primary {
+    color: #D98B0B !important;
+}
+#hero {
+    height: 700px;
+	padding: 130px;
+}
+.btn-primary {
+    background:#D98B0B !important;
+    border: solid #D98B0B 1px; 
+    padding: 1em;
+}
+.navbar-nav li {
+	padding: 0 20px;
+}
+.content{
+	max-width: 500px;
+}
+.carousel-item{
+	height: 32rem;
+}
